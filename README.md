@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi 👋! My name is tejash and I'm a Software Engineer from India
+My name is tejash and I'm a Software Engineer from India
 
 
 ## 🌐 Socials:
